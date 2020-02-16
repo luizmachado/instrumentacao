@@ -1,4 +1,4 @@
-# instrumentacao
+# Instrumentacao
 This program was written to students of technical program industrial automation at SENAI, it helps to calculate and generate report of calibration:
 * Arithmetic mean
 * Population variance
