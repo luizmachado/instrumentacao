@@ -8,6 +8,7 @@ This program was written to students of technical program industrial automation 
 * Standard measurement uncertainty
 * Expanded Uncertainty of measurement
 * And so on ...
+
 Fell free to improve something in the code.
 
 ## Issues
